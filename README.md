@@ -3,7 +3,7 @@ Cleaned and processed global layoffs data using SQL.
 Performed exploratory data analysis (EDA) to uncover trends by industry, country, and time. 
 Gained insights into workforce reduction patterns worldwide, demonstrating SQL for data cleaning and analysis.
 
-![] (https://github.com/avinashpatil2140/Data-Cleaning-of-World-Layoffs-using-sql/blob/main/OIP.jpeg)
+![alt image] (https://github.com/avinashpatil2140/Data-Cleaning-of-World-Layoffs-using-sql/blob/main/OIP.jpeg)
 
 The World Layoffs Analysis Project is a comprehensive study of global layoffs, designed to uncover trends, patterns, and insights across industries, companies, and countries. With the increasing impact of economic fluctuations, company restructuring, and global events, understanding workforce reduction patterns is crucial for businesses, analysts, and policymakers.
 
